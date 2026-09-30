@@ -1,6 +1,6 @@
 # Hi, I’m Tyler 👋
 
-I’m a 2nd-year **BSc Mathematics** student at **Queen Mary University of London**, focusing on **machine learning** and **data science** with Python.
+I’m a 3rd-year **BSc Mathematics** student at **Queen Mary University of London**, focusing on **machine learning** and **data science** with Python.
 
 -  Interested in AI/ML and applied probability
 -  Comfortable with **Python**, **PyTorch**, and core maths (calculus, linear algebra, probability)
