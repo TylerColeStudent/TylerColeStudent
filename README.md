@@ -11,13 +11,13 @@ I’m a 2nd-year **BSc Mathematics** student at **Queen Mary University of Londo
 
 ## Projects
 
--  **Poker Equity Predictor (PyTorch)**  
-  End-to-end ML project that predicts post-flop poker hand equity from hand + board cards.  
+**Poker Equity Predictor (PyTorch)**  
+End-to-end ML project that predicts post-flop poker hand equity from hand + board cards.  
   - Simulated ~10 million poker hands using Monte Carlo and brute-force methods  
   - Engineered a 119-dimensional feature vector (card one-hot, suit canonicalisation, hand-strength features, etc.)  
   - Trained a neural network in PyTorch achieving **~2% MAE** vs true equity, far better than a naive baseline (MAE ~0.21)
 
-- **Tiny Transformer Lab (PyTorch)**
+**Tiny Transformer Lab (PyTorch)**  
   Built a GPT-style language model from scratch in PyTorch to explore the inner workings of transformers.
   - Implemented an autoregressive decoder-only transformer with multi-head causal self-attention, positional embeddings, and feed-forward networks
   - Developed a custom byte-level BPE tokeniser and a training pipeline using WikiText-2
